@@ -1,0 +1,18 @@
+{
+  "name": "laziness_rob",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This script represents my laziness of clicking many and many times to achieve my goal (remove many many videos of a youtube playlist).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "laziness"
+  ],
+  "author": "Victor Alves <vsilva.programdor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
