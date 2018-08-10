@@ -2,7 +2,7 @@
  * This script represents my laziness of clicking many and many times to achieve my goal (remove many many videos of a youtube playlist).
  */
 const robot = require("robotjs");
-let times = process.argv[2];
+let times = process.argv[2]; // arguments passed when running the script. e.g.: npm start 500
 
 /**
  * Verifies if all clicks were clicked.
